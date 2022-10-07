@@ -1632,3 +1632,16 @@ padding: 10px;
 
 
 }
+
+#cf textarea {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  height: 270px;
+  width: 40%;
+  padding: 118px;
+  margin-top: 13px;
+  border: 2px dotted blue;
+  border-radius: 23px;
+}
