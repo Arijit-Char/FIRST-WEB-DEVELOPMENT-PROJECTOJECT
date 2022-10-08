@@ -521,7 +521,7 @@ flex-wrap: wrap;
 
 }
 
-@media (max-width:450px) {
+@media (max-width:400px) {
 
   .logo {
     height: 100px;
@@ -567,7 +567,7 @@ flex-wrap: wrap;
     padding: 1px;
   }
   h2 {
-    font-size: 19px;
+    font-size: 16px;
     line-height: 29px;
     color: #222;
   }
@@ -897,7 +897,7 @@ margin-bottom: 10px;}
 
 }
 
-@media (max-width:450px) {
+@media (max-width:400px) {
   #bpic {
     width: 49vw;
   }
@@ -921,8 +921,9 @@ margin-bottom: 10px;}
     font-size: 15px;
   }
   .pad {
-    padding: 36px 61px;
-  }
+    padding: 28px 46px;
+    margin-left: -1px;
+}
   #pic2 h5 {
     margin-top: 2px;
     margin-bottom: 32px;
@@ -1591,7 +1592,7 @@ padding: 10px;
   }
 
 }
-@media (max-width:450px) {
+@media (max-width:400px) {
   #dv1 table {
     white-space:normal;
     border-collapse: collapse;
@@ -1607,10 +1608,10 @@ padding: 10px;
     font-size: 7px;
   }
 #dv1 {
-  width: 70vw;
+  width: 75vw;
 }
 #dv1 thead tr td {
-	padding: 6px;
+	padding: 3px;
 }
 #dv1 img {
 	height: 8vh;
@@ -1676,7 +1677,7 @@ padding: 10px;
 
 }
 
-@media (max-width:450px) {
+@media (max-width:400px) {
   #dv1 img {
     height: 8vh;
     width: 14vw;
@@ -1708,8 +1709,8 @@ padding: 10px;
   color: black;
 }
 h1 {
-  font-size: 50px;
-  line-height: 63px;
+  font-size: 22px;
+  line-height: 51px;
   color: #222;
 }
 #lpad h1 {
